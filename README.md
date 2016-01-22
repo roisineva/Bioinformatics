@@ -1,6 +1,7 @@
 # Bioinformatics
 PCfB Exercise
-![My profile](screenshotsfor pcfb/PCfBScreenshot1.png)
+![My profile](screenshotsforpcfb/PCfBScreenshot1.png)
+
 
 
 
